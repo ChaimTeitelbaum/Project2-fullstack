@@ -1,4 +1,3 @@
-// @TODO: YOUR CODE HERE!
 function buildChart(symbol) {
 d3.select("#bubble").selectAll("svg").remove();
 var svgWidth = 960;
