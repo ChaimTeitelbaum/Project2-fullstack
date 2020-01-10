@@ -1,8 +1,5 @@
-console.log('client js')
-
-console.log("Mariaaa mariaaaaaa");
-
-
+console.log('client js'
+            
 $(document).ready(function() {
   $('#selDataset').select2();
 });
